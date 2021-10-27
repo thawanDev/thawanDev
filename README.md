@@ -2,8 +2,6 @@
 - 🔭 Atuo programando Back-End & Front-End in Java
 - 📚 Aprendendo a programar in C#
 - 🌱 Estudando no 1º ano do Ensino Médio
-- 💬 Muito imperativo e organizado, adoro amizades novas
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/thawanDev">
